@@ -1,2 +1,2 @@
 # PswGen
-Simple password generator written in C ++
+Simple password generator written in C++
