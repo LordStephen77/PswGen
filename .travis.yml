@@ -1,0 +1,5 @@
+language: cpp
+sudo: enabled
+os: linux
+
+./configure && make && make test
